@@ -3,7 +3,7 @@
 using namespace std;
 
 /*
-pattern 7:
+pattern 8:
 Ninja was very fond of patterns. For a given integer ‘N’, he wants to make the Reverse N-Star Triangle.
 Input N=3
 *****
